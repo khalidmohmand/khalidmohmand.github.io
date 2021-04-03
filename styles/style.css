@@ -1,7 +1,63 @@
 body{
-    background-color: rgb(9, 42, 187);
-    color: #fff;
+    background-color: black;
+    color: blanchedalmond;
 }
-.para{
-    background-color: aqua;
+.container{
+    border: 1px outset rgb(29, 23, 22);
+    background-color: rgba(15, 20, 25, 15);    
+    text-align: center;
+    width: 60vw;
+    height: 95vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+.cont2{
+    border: 1px outset rgb(29, 23, 22);
+    background-color:rgba(15, 20, 25, 15) ;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 2.5%;
+    left: 58%;
+}
+.p1{
+    font-family: cursive;
+    color: rgb(15, 214, 171);
+    text-align: left;
+}
+h1{
+    font-size: xxx-large;
+    text-align: left;
+
+}
+.pic{
+    text-align: left;
+    width: 300px;
+    height: 1000px;
+    -webkit-padding-start: 10%;
+    object-fit: fill;
+    padding-bottom: 10%;
+}
+.cont3{
+    border: 1px outset rgb(29, 23, 22);
+    background-color:rgba(15, 20, 25, 15) ;
+    text-align: center;
+    width: 500px;
+    height: 465px;
+    position: absolute;
+    top: 50%;
+    left: 58%;                                     
+}
+.cont4{
+    text-align: left;
+    font-family: sans-serif;
+}
+.cont5{
+    text-align: right;
+    padding-top: 0.1%;
+    padding-right: 0.5%;
 }
